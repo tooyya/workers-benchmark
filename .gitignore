@@ -1,0 +1,7 @@
+node_modules
+.wrangler
+.dev.vars
+results
+targets.remote.json
+*.log
+.DS_Store

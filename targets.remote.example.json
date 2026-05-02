@@ -1,0 +1,4 @@
+{
+  "workerd-hono": "https://workerd-hono.<your-account>.workers.dev",
+  "workerd-elysia": "https://workerd-elysia.<your-account>.workers.dev"
+}
